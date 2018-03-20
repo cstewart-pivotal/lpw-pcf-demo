@@ -1,0 +1,5 @@
+---
+applications:
+- name: cfsummit-app
+  instances: 1
+  host: summit
