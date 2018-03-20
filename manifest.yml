@@ -1,5 +1,4 @@
 ---
 applications:
-- name: cfsummit-app
+- name: multi-auto
   instances: 1
-  host: summit
