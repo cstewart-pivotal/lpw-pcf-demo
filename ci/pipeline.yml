@@ -9,11 +9,11 @@ jobs:
     - put: deploy-to-pws
       params:
         manifest: git-repo/manifest.yml
-        path: build-output/cfsummit-app-0.0.1-SNAPSHOT.jar
+        path: build-output/concourse-app-0.0.1-SNAPSHOT.jar
     - put: deploy-to-gcp
       params:
         manifest: git-repo/manifest.yml
-        path: build-output/cfsummit-app-0.0.1-SNAPSHOT.jar
+        path: build-output/concourse-app-0.0.1-SNAPSHOT.jar
 
 resources:
 - name: git-repo

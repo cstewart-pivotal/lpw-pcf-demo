@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.pivotal.ecosystem.cfsummit</groupId>
-	<artifactId>cfsummit-app</artifactId>
+	<artifactId>concourse-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
