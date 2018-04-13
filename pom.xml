@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>cfsummit-app</name>
+	<name>concourse-app</name>
 	<description>Demo App for CF Summit</description>
 
 	<parent>
